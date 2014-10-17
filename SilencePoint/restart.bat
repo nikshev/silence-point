@@ -1,0 +1,2 @@
+"C:\Users\user\Documents\Visual Studio 2012\Projects\SilencePoint\SilencePoint\bin\Release\SilencePoint.exe"
+"C:\Users\user\Documents\Visual Studio 2012\Projects\SilencePoint\SilencePoint\bin\Release\restart.bat"
